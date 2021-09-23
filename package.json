@@ -1,5 +1,6 @@
 {
   "name": "keeper",
+  "home-page": "http://ujjawalgupta42.github.io/WeatherApp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
